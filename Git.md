@@ -1,21 +1,21 @@
 ## Git Interview questions 
 
-1. Question: What is Git, and how does it differ from other version control systems?
+#### 1. Question: What is Git, and how does it differ from other version control systems?
 **Answer:** Git is a version control system that helps you keep track of changes in your project's files. Unlike other systems, Git stores snapshots of your project instead of just the differences between versions.
 
 
-2. Question: What is a Git repository?
+#### 2. Question: What is a Git repository?
 **Explanation:** In the world of Git, think of a Git repository as Hogwarts School of Witchcraft and Wizardry. Just like Hogwarts is a place where magical knowledge is stored and managed, a Git repository is a place where your project's code and its entire history are stored and managed.<br>
 **Answer:** A Git repository is like a special folder that stores all the files, their history, and the changes made to them. It's where Git keeps track of your project.
 
 
-3. Question: What is the difference between Git commit and Git push?
+#### 3. Question: What is the difference between Git commit and Git push?
 **Expalanation:** A Git commit is like a spell or a magical incantation. When you make a commit, you're essentially capturing the current state of your project (the code, files, and changes) and creating a snapshot. Think of this as a wizard casting a spell to save the current state of a magical potion or a magical creature.
 Git push is like sending an enchanted letter by owl post in the wizarding world. When you make changes to your local repository and want to share them with others or update the remote repository, you "push" your changes, just as wizards use owls to send messages to others.<br>
 **Answer:** When you "commit," you're saving your changes to your local repository. When you "push," you're sending those changes to a remote repository, making them available to others.
 
 
-#### Question: What is a branch in Git?
+#### 4. Question: What is a branch in Git?
 **Explanation:** In the "Harry Potter" universe, you can think of branches as different magical paths or storylines. For example, there could be a "Harry" branch, a "Ron" branch, and a "Hermione" branch, each representing different storylines. In Git, branches allow you to work on different features or bug fixes separately, keeping the main codebase (like the main storyline) untouched.<br>
 **Answer:** A branch is like a separate path for your project's development. You can work on new features or fixes in a branch without affecting the main project until you decide to merge the changes.
 
