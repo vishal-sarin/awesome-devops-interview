@@ -87,7 +87,6 @@ Git push is like sending an enchanted letter by owl post in the wizarding world.
 #### Question: What is Git branching and merging, and how do they work?
 **Answer:** Git branching is like creating different paths for your project's development. You can make changes separately in each branch. Merging is combining the changes from one branch back into another, creating a unified project with the new features or fixes.
 
-
 #### Question: How do you resolve a Git merge conflict?
 **Explanation:** Merge conflicts in Git are like conflicting spells cast by different wizards. When two branches have made incompatible changes to the same part of a file, Git can't automatically merge them. You have to step in and resolve the conflict, just as wizards need to reconcile their conflicting spells.<br>
 **Answer:** To resolve a merge conflict, you need to review the conflicting changes in the affected files and decide which ones to keep. Once resolved, you save the changes, mark the file as resolved, and complete the merge.
